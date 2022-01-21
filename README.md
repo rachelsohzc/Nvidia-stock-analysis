@@ -4,7 +4,7 @@
 I've been interested in investing in the stock market lately. I thought doing this project might help me learn more about valuing companies and deciding what stocks to invest in. This is a short project where I analyse Nvidia stocks using past information. Some key questions that I wanted to answer in this project are:
 1. What was the change in price of stock over time?
 2. What was the daily, monthly, and yearly return of the stock?
-3. How did this stock move on average?
+3. What is the stock's moving average?
 4. How much risk do we take by investing in this stock?
 5. How can we predict future stock behavior?
 
@@ -19,3 +19,4 @@ The first few questions are easy to answer through a couple of plots. Regarding 
 1. [Long Short-Term Memory Networks](https://machinelearningmastery.com/gentle-introduction-long-short-term-memory-networks-experts/)
 2. [Predictions with LSTM](https://www.datacamp.com/community/tutorials/lstm-python-stock-market)
 3. [Matplotlib.pyplot guide](matplotlib.pyplot)
+4. [Time series forecasting](https://www.analyticsvidhya.com/blog/2020/11/stock-market-price-trend-prediction-using-time-series-forecasting/)
