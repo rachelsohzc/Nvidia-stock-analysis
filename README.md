@@ -21,3 +21,4 @@ The first few questions are easy to answer through a couple of plots. Regarding 
 3. [Matplotlib.pyplot guide](matplotlib.pyplot)
 4. [Time series forecasting](https://www.analyticsvidhya.com/blog/2020/11/stock-market-price-trend-prediction-using-time-series-forecasting/)
 5. [.loc function](https://towardsdatascience.com/a-python-beginners-look-at-loc-part-1-cb1e1e565ec2)
+6. [Fundamental vs technical analysis](https://www.investopedia.com/ask/answers/difference-between-fundamental-and-technical-analysis/)
