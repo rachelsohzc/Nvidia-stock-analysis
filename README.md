@@ -20,3 +20,4 @@ The first few questions are easy to answer through a couple of plots. Regarding 
 2. [Predictions with LSTM](https://www.datacamp.com/community/tutorials/lstm-python-stock-market)
 3. [Matplotlib.pyplot guide](matplotlib.pyplot)
 4. [Time series forecasting](https://www.analyticsvidhya.com/blog/2020/11/stock-market-price-trend-prediction-using-time-series-forecasting/)
+5. [.loc function](https://towardsdatascience.com/a-python-beginners-look-at-loc-part-1-cb1e1e565ec2)
