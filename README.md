@@ -22,4 +22,4 @@ The first few questions are easy to answer through a couple of plots. Regarding 
 4. [Time series forecasting](https://www.analyticsvidhya.com/blog/2020/11/stock-market-price-trend-prediction-using-time-series-forecasting/)
 5. [.loc function](https://towardsdatascience.com/a-python-beginners-look-at-loc-part-1-cb1e1e565ec2)
 6. [Fundamental vs technical analysis](https://www.investopedia.com/ask/answers/difference-between-fundamental-and-technical-analysis/)
-7. 7. [Moving average](https://www.investopedia.com/terms/m/movingaverage.asp#:~:text=Key%20Takeaways-,A%20moving%20average%20(MA)%20is%20a%20stock%20indicator%20that%20is,commonly%20used%20in%20technical%20analysis.&text=A%20simple%20moving%20average%20(SMA,%2C%20100%2C%20or%20200%20days.)
+7. [Moving average](https://www.investopedia.com/terms/m/movingaverage.asp#:~:text=Key%20Takeaways-,A%20moving%20average%20(MA)%20is%20a%20stock%20indicator%20that%20is,commonly%20used%20in%20technical%20analysis.&text=A%20simple%20moving%20average%20(SMA,%2C%20100%2C%20or%20200%20days.)
