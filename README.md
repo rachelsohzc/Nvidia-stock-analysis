@@ -24,3 +24,4 @@ The first few questions are easy to answer through a couple of plots. Regarding 
 6. [Fundamental vs technical analysis](https://www.investopedia.com/ask/answers/difference-between-fundamental-and-technical-analysis/)
 7. [Moving average](https://www.investopedia.com/terms/m/movingaverage.asp)
 8. [Cumulative returns](https://www.investopedia.com/terms/c/cumulativereturn.asp)
+9. [Calculating risk](https://www.investopedia.com/ask/answers/041415/what-are-some-common-measures-risk-used-risk-management.asp)
