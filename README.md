@@ -16,7 +16,7 @@ The first few questions are easy to answer through a couple of plots. Regarding 
 ### Conclusion
 
 ### References
-1. [Long Short-Term Memory Networks](https://machinelearningmastery.com/gentle-introduction-long-short-term-memory-networks-experts/)
+1. [ARIMA model](https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python/)
 2. [Predictions with LSTM](https://www.datacamp.com/community/tutorials/lstm-python-stock-market)
 3. [Matplotlib.pyplot guide](matplotlib.pyplot)
 4. [Time series forecasting](https://www.analyticsvidhya.com/blog/2020/11/stock-market-price-trend-prediction-using-time-series-forecasting/)
