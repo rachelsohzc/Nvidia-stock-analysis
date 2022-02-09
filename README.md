@@ -9,7 +9,7 @@ I've been interested in investing in the stock market lately. I thought doing th
 5. How can we predict future stock behavior?
 
 ### Description
-The first few questions are easy to answer through a couple of plots. Regarding predictions of the stock, I had to read up a bit on long short-term memory networks and one-step ahead prediction via averaging. The dataset used in this analysis can be found here: https://www.kaggle.com/kalilurrahman/nvidia-stock-data-latest-and-updated/version/3
+The first few questions are easy to answer through a couple of plots. Regarding predictions of the stock, I had to read up a bit on time series forecasting. The dataset used in this analysis can be found here: https://www.kaggle.com/kalilurrahman/nvidia-stock-data-latest-and-updated/version/3
 
 ### How to run
 Make sure you've downloaded the dataset, then run the [Nvidia Stock analysis.ipynb](https://github.com/RS201918703/Nvidia-stock-analysis/blob/main/Nvidia%20Stock%20analysis.ipynb) jupyter notebook.
