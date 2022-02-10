@@ -26,3 +26,5 @@ Make sure you've downloaded the dataset, then run the [Nvidia Stock analysis.ipy
 7. [Moving average](https://www.investopedia.com/terms/m/movingaverage.asp)
 8. [Cumulative returns](https://www.investopedia.com/terms/c/cumulativereturn.asp)
 9. [Calculating risk](https://www.investopedia.com/ask/answers/041415/what-are-some-common-measures-risk-used-risk-management.asp)
+10. [Augmented Dickey Fuller Test](https://www.machinelearningplus.com/time-series/augmented-dickey-fuller-test/)
+11. [Kwiatkowski–Phillips–Schmidt–Shin test](https://www.statisticshowto.com/kpss-test/)
