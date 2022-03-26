@@ -2,10 +2,10 @@
 
 ### Overview
 I've been interested in investing in the stock market lately. I thought doing this project might help me learn more about valuing companies and deciding what stocks to invest in. This is a short project where I analyse Nvidia stocks using past information. Some key questions that I wanted to answer in this project are:
-1. What was the change in price of stock over time?
-2. What was the daily, monthly, and yearly return of the stock?
-3. What is the stock's moving average?
-4. How much risk do we take by investing in this stock?
+1. What was the change in price of stock over time? [COMPLETE]
+2. What was the daily and monthly return of the stock? [COMPLETE]
+3. What is the stock's moving average? [COMPLETE]
+4. How much risk do we take by investing in this stock? [COMPLETE]
 5. How can we predict future stock behavior?
 
 ### Description
@@ -28,3 +28,4 @@ Make sure you've downloaded the dataset, then run the [Nvidia Stock analysis.ipy
 9. [Calculating risk](https://www.investopedia.com/ask/answers/041415/what-are-some-common-measures-risk-used-risk-management.asp)
 10. [Augmented Dickey Fuller Test](https://www.machinelearningplus.com/time-series/augmented-dickey-fuller-test/)
 11. [Kwiatkowski–Phillips–Schmidt–Shin test](https://www.statisticshowto.com/kpss-test/)
+12. [Technical analysis](https://www.youtube.com/watch?v=eynxyoKgpng&ab_channel=TheTradingChannel)
