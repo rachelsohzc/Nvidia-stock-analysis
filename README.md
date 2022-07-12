@@ -6,7 +6,7 @@ I've been interested in investing in the stock market lately. I thought doing th
 2. What was the daily and monthly return of the stock? [COMPLETE]
 3. What is the stock's moving average? [COMPLETE]
 4. How much risk do we take by investing in this stock? [COMPLETE]
-5. How can we predict future stock behavior?
+5. How can we predict future stock behavior with statistical models?
 
 ### Description
 The first few questions are easy to answer through a couple of plots. Regarding predictions of the stock, I had to read up a bit on time series forecasting. The dataset used in this analysis can be found here: https://www.kaggle.com/kalilurrahman/nvidia-stock-data-latest-and-updated/version/3
